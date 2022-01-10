@@ -7,10 +7,12 @@ public class mein
 		System.out.println("Commit test");
 		System.out.println("Meow");
 		//under there is korean. to check utp-8 encoding
-		//¿©±â¼­ ºÎÅÍ ÇÑ±¹¾î. utp-8 ÀÎÄÚµù Å×½ºÆ®
-		System.out.println("Ä¿¹Ô Å×½ºÆ®");
-		System.out.println("³Ä¿Ë");
+		//ì—¬ê¸°ì„œ ë¶€í„° í•œêµ­ì–´. utp-8 ì¸ì½”ë”© í…ŒìŠ¤íŠ¸
+		System.out.println("ì»¤ë°‹ í…ŒìŠ¤íŠ¸");
+		System.out.println("ëƒì˜¹");
 		//aabbss
+		System.out.println("ë‘ë²ˆì¨° ì»¤ë°‹");
+		System.out.println("2nd commit!!");
 	
 	}
 }
